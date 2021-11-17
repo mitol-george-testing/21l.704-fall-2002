@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fd72ba8e-e137-478a-c070-54d1aa95b7be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Studies in Poetry: \"Does Poetry Matter\"",
+  "course_description": "The landscape we will explore is the troublesome one of the relevance, impact, and importance of poetry in a troubled modern world. We will read both poetry and prose by several substantial modern writers, each of whom confronted the question that is the subject's title.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.704",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
